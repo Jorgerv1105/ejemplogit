@@ -5,5 +5,12 @@ int main(){
     scanf("%i", &a);
     printf("hola mundo: %i \n", a);
     printf("jfdfksdjfks");
+    printf("jfdfksdjfks");
+    printf("jfdfksdjfks");
+    printf("jfdfksdjfks");
+    printf("jfdfksdjfks");
+    printf("jfdfksdjfks");
+    printf("jfdfksdjfks");
+    
 return 0;
 }
